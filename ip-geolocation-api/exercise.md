@@ -25,7 +25,7 @@ Your result could look like in the following demo video, that shows all needed p
 
 Click the thumbnail to see the video.  
 
-[![Click the thumbnail to play the video!](./ip-geolocation-map-demo-thumbnail.jpg)](https://youtu.be/qspF81xBVDU)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qspF81xBVDU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Template
 
